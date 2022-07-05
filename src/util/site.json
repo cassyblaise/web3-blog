@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Cassypost",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Let learn, build and explore web3, Web3 uses blockchains, cryptocurrencies, DAO, Metaverse and NFTs to give power back to the users in the form of ownership. ",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/cassy2.png",
+    "iconimage": "/assets/cassy2.png",
+    "twitterUsername": "@cassyjnr"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Casmir Obok
+tagline: Web3 Evangelist
+featuredImage: /assets/cassy2.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Hello, I'm Obok Casmir(Cassyblaise) I'm web developer, Web3 Evangelist. I am very passionate about technology and the solution it provides to everyday problems, so I want to be part of building even more advanced solutions to problems in fields not yet explored. I'm addictive learner, and always ready for new opportunities. My hobbies are: Reading, love good music, watching football and I like going out for a long walk.

@@ -19,7 +19,7 @@ import {
   RiMediumFill,
   RiBehanceFill,
 } from "react-icons/ri"
-import { faTiktok, FaWordpress, FaVk } from "react-icons/fa"
+import {FaWordpress, FaVk } from "react-icons/fa"
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
@@ -100,13 +100,13 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "youtube" ? (
+        {/* {icons.icon === "youtube" ? (
           <a href={icons.url} target="_blank" aria-label="link to Youtube" rel="noopener noreferrer">
             <RiYoutubeFill alt="Youtube icon" />
           </a>
         ) : (
           ""
-        )}
+        )} */}
         {icons.icon === "instagram" ? (
           <a href={icons.url} target="_blank" aria-label="link to Instagram" rel="noopener noreferrer">
             <RiInstagramFill alt="Instagram icon" />
@@ -163,13 +163,13 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "tiktok" ? (
+        {/* {icons.icon === "tiktok" ? (
           <a href={icons.url} target="_blank" aria-label="link to Wordpress" rel="noopener noreferrer">
             <FaTiktok alt="tiktok icon" />
           </a>
         ) : (
           ""
-        )}
+        )} */}
         {icons.icon === "dribbble" ? (
           <a href={icons.url} target="_blank" aria-label="link to Dribbble" rel="noopener noreferrer">
             <RiDribbbleFill alt="Dribbble icon" />
